@@ -1,2 +1,2 @@
 this is the file one
-second line 
+second line of file1
