@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta es la primera prueba (BranchA)
+=======
+Prueba desde 0
+>>>>>>> Ricardo
