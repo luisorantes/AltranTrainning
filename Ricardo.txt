@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Holis
 Prueba BranchB
+=======
+Esta es la primera prueba (BranchA)
+>>>>>>> 4d87acde1433145af02c14316d70584f98283036
