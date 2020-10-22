@@ -1,6 +1,11 @@
 This are the Cesar libraries.
 
 
+
+Aqui esta las funciones de bluetooth.
+
+Segundo commit branch blue
+
 #include CEsarlib
 
 First cesar commit.
